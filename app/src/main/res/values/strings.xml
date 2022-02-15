@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiniPaint</string>
+
+    <string name="canvasContentDescription">MiniPaint is a simple line drawing app. Drag your fingers to draw and rotate to clear.</string>
+</resources>
